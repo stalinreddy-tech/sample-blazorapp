@@ -76,3 +76,4 @@
 /Users/stalinmarapati/Documents/AzureInfraDevops/WebApps/BlazorApp/obj/Debug/net9.0/BlazorApp.pdb
 /Users/stalinmarapati/Documents/AzureInfraDevops/WebApps/BlazorApp/obj/Debug/net9.0/BlazorApp.genruntimeconfig.cache
 /Users/stalinmarapati/Documents/AzureInfraDevops/WebApps/BlazorApp/obj/Debug/net9.0/ref/BlazorApp.dll
+/Users/stalinmarapati/Documents/AzureInfraDevops/WebApps/BlazorApp/obj/Debug/net9.0/BlazorApp.sourcelink.json
